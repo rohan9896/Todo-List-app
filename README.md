@@ -1,6 +1,8 @@
 # Todo-List-app
 Simple TODO LIST App
 
+LINK - https://rohan9896.github.io/Todo-List-app/
+
 Technologies-
 HTML, CSS, Vanilla JavaScript
 
